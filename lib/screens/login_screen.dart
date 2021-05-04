@@ -12,7 +12,7 @@ class _LoginScreenState extends State<LoginScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blueGrey,
+      backgroundColor: Colors.white,
       body: Padding(
         padding: EdgeInsets.symmetric(horizontal: 24.0),
         child: Column(
@@ -33,7 +33,8 @@ class _LoginScreenState extends State<LoginScreen> {
                 onChanged: (value) {
                   //Do something with the user input.
                 },
-                decoration: kTextFieldDecoration),
+                decoration:
+                    kTextFieldDecoration.copyWith(hintText: kEmailHint)),
             SizedBox(
               height: 8.0,
             ),
