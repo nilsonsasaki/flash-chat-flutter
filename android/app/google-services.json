@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363981387472",
+    "project_id": "flash-chat-dc271",
+    "storage_bucket": "flash-chat-dc271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363981387472:android:92d19e10114bebf323d0d5",
+        "android_client_info": {
+          "package_name": "co.NilsonSasaki.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363981387472-0sdl22vib8tcias8nvf5mo858fb4a2tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61_hlDNjzpEpgf-o7nxKX4y6eh_J34lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363981387472-0sdl22vib8tcias8nvf5mo858fb4a2tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
